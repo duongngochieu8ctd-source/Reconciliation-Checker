@@ -1,0 +1,17 @@
+customer_id,user_name,email,payment_token
+C1001,Tom Smith,tom.smith@example.com,TOK-0042
+C1002,Anna Lee,anna.lee@example.com,TOK-0043
+C1003,Raj Patel,raj.patel@example.com,TOK-0044
+C1004,Mia Chen,mia.chen@example.com,TOK-0045
+C1005,Sam Brown,sam.brown@example.com,TOK-0046
+C1006,Liam Nguyen,liam.nguyen@example.com,TOK-0047
+C1007,Olivia Ward,olivia.ward@example.com,TOK-0048
+C1008,Noah Clark,noah.clark@example.com,TOK-0049
+C1009,Emma Davis,emma.davis@example.com,TOK-0050
+C1010,Jack Moore,jack.moore@example.com,TOK-0051
+C1011,Ella King,ella.king@example.com,TOK-0052
+C1012,,fiona.reed@example.com,TOK-0053
+C1013,Grace Hall,   ,TOK-0054
+C1014,Henry Scott,henry.scott@example.com,
+C1015,Priya Shah,priya.shah@example.com,TOK-0060
+C1016,PRIYA SHAH ,priya.s@example.net,TOK-0060
